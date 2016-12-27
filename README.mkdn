@@ -1,0 +1,26 @@
+CyanogenMod 13.0 for Phicomm C230Wxx Devices
+============================================
+
+Getting Started
+---------------
+
+To get started with Android/CyanogenMod for Phicomm C230Wxx, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the CyanogenMod trees for Phicomm C230Wxx, use a command like this:
+
+    repo init -u git://github.com/sameerdhiman/android_C230Wxx.git -b cm-13.0
+
+Then to sync up:
+
+    repo sync
+
+Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
+
+For more information on this Github Organization and how it is structured, 
+please [read the wiki article](http://wiki.cyanogenmod.org/w/Github_Organization)
+
+Note
+----
+
+Only Linux host is supported.
